@@ -1,6 +1,6 @@
-# The code in this file comes from the following project.
+# The code in this file comes from the following projects.
 # https://github.com/Jiaxin-Ye/TIM-Net_SER
-# Developed by Jiaxin Ye
+# https://github.com/aascode/GM-TCNet
 
 import tensorflow.keras.backend as K
 import tensorflow as tf
