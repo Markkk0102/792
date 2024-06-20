@@ -1,1 +1,1 @@
-This repository is used to store the code, data and results of my 792 project.
+This repository is used to store the code, data and results of my 792 project. This project uses the code of [TIM-Net](https://arxiv.org/abs/2211.08233) and [GM-TCNet](https://arxiv.org/abs/2210.15834). The code of these two models can be found at https://github.com/Jiaxin-Ye/TIM-Net_SER and https://github.com/aascode/GM-TCNet.
