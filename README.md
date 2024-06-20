@@ -1,4 +1,4 @@
-This repository is used to store the code, data and results of my 792 project. This project uses the code of [TIM-Net](https://arxiv.org/abs/2211.08233) and [GM-TCNet](https://arxiv.org/abs/2210.15834). The code of these two models can be found at https://github.com/Jiaxin-Ye/TIM-Net_SER and https://github.com/aascode/GM-TCNet.
+This repository is used to store the code and results of 792 project. This project uses the code of [TIM-Net](https://arxiv.org/abs/2211.08233) and [GM-TCNet](https://arxiv.org/abs/2210.15834). The code of these two models can be found at https://github.com/Jiaxin-Ye/TIM-Net_SER and https://github.com/aascode/GM-TCNet.
 
 The project uses five publicly available databases:
 1. CASIA: https://www.kaggle.com/datasets/sophatvathana/casia-dataset
