@@ -1,3 +1,7 @@
+# The code in this file comes from the following project.
+# https://github.com/Jiaxin-Ye/TIM-Net_SER
+# Developed by Jiaxin Ye
+
 import tensorflow.keras.backend as K
 import tensorflow as tf
 import tensorflow.keras.layers
@@ -25,6 +29,9 @@ def makemean(x):
     meantensor = K.expand_dims(meantensor, 0)
     meantensor = tf.convert_to_tensor(meantensor)
     return meantensor
+
+# The residual_block code comes from the following project.
+# https://github.com/aascode/GM-TCNet
 
 def residual_block(x, s, i, activation, nb_filters, kernel_size, dropout_rate=0, name=''):
     original_x = x
