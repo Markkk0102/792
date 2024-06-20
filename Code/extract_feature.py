@@ -1,3 +1,7 @@
+# The code in this file comes from the following project.
+# https://github.com/Jiaxin-Ye/TIM-Net_SER
+# Developed by Jiaxin Ye 
+     
 import numpy as np
 import os
 import sys
